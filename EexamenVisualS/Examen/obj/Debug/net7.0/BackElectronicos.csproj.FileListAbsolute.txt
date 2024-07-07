@@ -1,0 +1,152 @@
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/appsettings.Development.json
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/appsettings.json
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/BackElectronicos
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/BackElectronicos.deps.json
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/BackElectronicos.runtimeconfig.json
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/BackElectronicos.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/BackElectronicos.pdb
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Azure.Core.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Azure.Identity.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Humanizer.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/System.CodeDom.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/BackElectronicos.csproj.AssemblyReference.cache
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/BackElectronicos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/BackElectronicos.AssemblyInfoInputs.cache
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/BackElectronicos.AssemblyInfo.cs
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/BackElectronicos.csproj.CoreCompileInputs.cache
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/BackElectronicos.MvcApplicationPartsAssemblyInfo.cs
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/BackElectronicos.MvcApplicationPartsAssemblyInfo.cache
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/staticwebassets/msbuild.BackElectronicos.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/staticwebassets/msbuild.build.BackElectronicos.props
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BackElectronicos.props
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BackElectronicos.props
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/scopedcss/bundle/BackElectronicos.styles.css
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/BackElectronicos.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/refint/BackElectronicos.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/BackElectronicos.pdb
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/BackElectronicos.genruntimeconfig.cache
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/ref/BackElectronicos.dll
+/Users/ivandejesusblancarteaguayo/Desktop/Angular Proyects/UTL/BDAndBackVictor/BackElectronicos/BackElectronicos/obj/Debug/net7.0/BackElectronicos.csproj.CopyComplete
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\appsettings.json
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\BackElectronicos.exe
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\BackElectronicos.deps.json
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\BackElectronicos.runtimeconfig.json
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\BackElectronicos.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\BackElectronicos.pdb
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Humanizer.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\BackElectronicos.csproj.AssemblyReference.cache
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\BackElectronicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\BackElectronicos.AssemblyInfoInputs.cache
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\BackElectronicos.AssemblyInfo.cs
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\BackElectronicos.csproj.CoreCompileInputs.cache
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\BackElectronicos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\BackElectronicos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\staticwebassets\msbuild.BackElectronicos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\staticwebassets\msbuild.build.BackElectronicos.props
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BackElectronicos.props
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BackElectronicos.props
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\scopedcss\bundle\BackElectronicos.styles.css
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\BackElec.57C4C6A6.Up2Date
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\BackElectronicos.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\refint\BackElectronicos.dll
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\BackElectronicos.pdb
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\BackElectronicos.genruntimeconfig.cache
+C:\Users\daian\Downloads\BackElectronicos\BackElectronicos\BackElectronicos\obj\Debug\net7.0\ref\BackElectronicos.dll

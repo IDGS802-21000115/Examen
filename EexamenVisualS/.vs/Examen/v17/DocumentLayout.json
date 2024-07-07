@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daian\\Downloads\\BackElectronicos\\BackElectronicos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8261A393-2F67-44B4-B4F7-B967D6FDA35D}|BackElectronicos\\Examen.csproj|c:\\users\\daian\\downloads\\backelectronicos\\backelectronicos\\backelectronicos\\controllers\\celcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8261A393-2F67-44B4-B4F7-B967D6FDA35D}|BackElectronicos\\Examen.csproj|solutionrelative:backelectronicos\\controllers\\celcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8261A393-2F67-44B4-B4F7-B967D6FDA35D}|BackElectronicos\\Examen.csproj|c:\\users\\daian\\downloads\\backelectronicos\\backelectronicos\\backelectronicos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8261A393-2F67-44B4-B4F7-B967D6FDA35D}|BackElectronicos\\Examen.csproj|solutionrelative:backelectronicos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8261A393-2F67-44B4-B4F7-B967D6FDA35D}|BackElectronicos\\Examen.csproj|c:\\users\\daian\\downloads\\backelectronicos\\backelectronicos\\backelectronicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8261A393-2F67-44B4-B4F7-B967D6FDA35D}|BackElectronicos\\Examen.csproj|solutionrelative:backelectronicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8261A393-2F67-44B4-B4F7-B967D6FDA35D}|BackElectronicos\\Examen.csproj|c:\\users\\daian\\downloads\\backelectronicos\\backelectronicos\\backelectronicos\\models\\tiendacel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8261A393-2F67-44B4-B4F7-B967D6FDA35D}|BackElectronicos\\Examen.csproj|solutionrelative:backelectronicos\\models\\tiendacel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\daian\\Downloads\\BackElectronicos\\BackElectronicos\\BackElectronicos\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackElectronicos\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\daian\\Downloads\\BackElectronicos\\BackElectronicos\\BackElectronicos\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackElectronicos\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T16:15:08.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daian\\Downloads\\BackElectronicos\\BackElectronicos\\BackElectronicos\\Program.cs",
+              "RelativeDocumentMoniker": "BackElectronicos\\Program.cs",
+              "ToolTip": "C:\\Users\\daian\\Downloads\\BackElectronicos\\BackElectronicos\\BackElectronicos\\Program.cs",
+              "RelativeToolTip": "BackElectronicos\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:15:19.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CelController.cs",
+              "DocumentMoniker": "C:\\Users\\daian\\Downloads\\BackElectronicos\\BackElectronicos\\BackElectronicos\\Controllers\\CelController.cs",
+              "RelativeDocumentMoniker": "BackElectronicos\\Controllers\\CelController.cs",
+              "ToolTip": "C:\\Users\\daian\\Downloads\\BackElectronicos\\BackElectronicos\\BackElectronicos\\Controllers\\CelController.cs",
+              "RelativeToolTip": "BackElectronicos\\Controllers\\CelController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:14:41.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TiendaCEl.cs",
+              "DocumentMoniker": "C:\\Users\\daian\\Downloads\\BackElectronicos\\BackElectronicos\\BackElectronicos\\Models\\TiendaCEl.cs",
+              "RelativeDocumentMoniker": "BackElectronicos\\Models\\TiendaCEl.cs",
+              "ToolTip": "C:\\Users\\daian\\Downloads\\BackElectronicos\\BackElectronicos\\BackElectronicos\\Models\\TiendaCEl.cs",
+              "RelativeToolTip": "BackElectronicos\\Models\\TiendaCEl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:13:41.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
